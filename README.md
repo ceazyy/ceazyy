@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on new AI based projects, typically the one which requires LLM integrations.<br>I'm looking for help with deployment because I'm new to this.<br>I'm learning git, and usage of AI tools to code better. I know coding and I can understand what's being written.<br>Ask me about my projects and I would love to give you an overview.
+I'm currently working on new AI based projects, learning new techs, typically the one which requires LLM integrations.<br>I'm looking for help with deployment because I'm new to this.<br>I'm learning git, and usage of AI tools to code better. I know coding and I can understand what's being written.<br>Ask me about my projects and I would love to give you an overview.
 
 
 ## 🌐 Socials:
